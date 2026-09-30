@@ -50,24 +50,24 @@ Voici comment j'ai choisi d'organiser ce Feedly :
 La première chose que j'utilise et que j'utilisais c'est **Linkedin** en suivant les bonnes personnes j'obtiens des informations sur les sujets qui m'intéresse. 
 
 Petite liste de personnes que je suis : 
- - Florian Burnel (ITConnect) 
- - Stéphane Robert 
- - ANSSI
- - Clusif
- - Mickael Barroux
+ - [Florian Burnel (ITConnect)](https://www.linkedin.com/in/florian-burnel/) 
+ - [Stéphane Robert](https://www.linkedin.com/in/stephanerobertdevops/) 
+ - [ANSSI](https://www.linkedin.com/company/anssi-gov-fr/)
+ - [Clusif](https://www.linkedin.com/company/clusif/)
+ - [Mickael Barroux](https://www.linkedin.com/in/mickaelbarroux/)
 
  Une seconde ressources que j'utilise pour la veille est **Reddit**. Je suis plusieurs blogs : 
 
-  - r/france_tech
-  - r/cybersécurité
-  - r/sysadmin
-  - r/netsec
-  - r/linuxadmin
-  - r/homelab
+  - [r/france_tech](https://www.reddit.com/r/france_tech/)
+  - [r/cybersécurité](https://www.reddit.com/r/cybersecurite/)
+  - [r/sysadmin](https://www.reddit.com/r/sysadmin/)
+  - [r/netsec](https://www.reddit.com/r/netsec/)
+  - [r/linuxadmin](https://www.reddit.com/r/linuxadmin/)
+  - [r/homelab](https://www.reddit.com/r/homelab/)
 
   Enfin une ressource très intéressante pour regarder des vidéos sur l'IT c'est **Youtube** : 
-  - Underscore 
+  - [Underscore](https://www.youtube.com/@underscore_talk)
   - [IT-Connect](https://www.youtube.com/@IT-Connect)
-  - Xavki
-  - Cocadmin
+  - [Xavki](https://www.youtube.com/@xavki)
+  - [Cocadmin](https://www.youtube.com/@Cocadmin)
 
