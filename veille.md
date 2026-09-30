@@ -5,7 +5,7 @@
 
 La veille informatique c'est le fait de se tenir informé des sujets d'actualités et en rapport avec un sujet donnée aussi large soit-il. Dans le cas de l'informatique les sujets peuvent être large et variés selon nos appetances ou nos intérêts. 
 
-**Pourquoi est-ce indispensable?** 
+ #### Pourquoi est-ce indispensable?
 
 Cela permet pour des informaticiens comme nous de se tenir informé des vulnérabilités et failles de sécurité. Cela peut aussi nous faire découvrir de nouvelles choses de nouveaux outils et de manière différente de réaliser ce que l'on fait déjà.
 
