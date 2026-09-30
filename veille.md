@@ -18,7 +18,7 @@ Il possède aussi une fonctionnalité intéréssante qui est celle de pouvoir av
 
 Voici comment j'ai choisi d'organiser ce Feedly : 
 
-  Informatique Générale : Un dossier qui va contenir des sources qui parlent d'informatique au sens général : 
+  **Informatique Générale** : Un dossier qui va contenir des sources qui parlent d'informatique au sens général : 
    - [IT-Connect](https://www.it-connect.fr) 
    - [le comptoir du Hardware](https://www.comptoir-hardware.com/)
    - [ZDNet France](https://www.zdnet.fr/)
@@ -27,7 +27,7 @@ Voici comment j'ai choisi d'organiser ce Feedly :
    - [Les Numériques](https://www.lesnumeriques.com/)
    - [Le monde Informatique](https://www.lemondeinformatique.fr/)
  
-  Sécurité : Ce dossier contient des sources d'avantage porté sur les failles de sécurité les vulnérabilité et la cybersécurité : 
+  **Sécurité** : Ce dossier contient des sources d'avantage porté sur les failles de sécurité les vulnérabilité et la cybersécurité : 
    - [Cert-FR](https://www.cert.ssi.gouv.fr)
    - [Zataz](https://www.zataz.com/)
    - [UnderNews](https://www.undernews.fr/)
@@ -36,7 +36,7 @@ Voici comment j'ai choisi d'organiser ce Feedly :
    - [Anssi](https://www.ssi.gouv.fr/)
 
 
-  Linux : Ce dossier parle de linux au sens générale et centralise des sources comme : 
+  **Linux** : Ce dossier parle de linux au sens générale et centralise des sources comme : 
    - [Glpi Project](https://glpi-project.org/fr/) 
    - [Planet Debian French](https://planet.debian.org/fr/)
    - [Phoronix](https://www.phoronix.com/)
