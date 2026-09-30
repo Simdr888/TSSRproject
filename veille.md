@@ -58,7 +58,6 @@ Petite liste de personnes que je suis :
 
  Une seconde ressources que j'utilise pour la veille est **Reddit**. Je suis plusieurs blogs : 
 
-  - [r/france_tech](https://www.reddit.com/r/france_tech/)
   - [r/cybersécurité](https://www.reddit.com/r/cybersecurite/)
   - [r/sysadmin](https://www.reddit.com/r/sysadmin/)
   - [r/netsec](https://www.reddit.com/r/netsec/)
