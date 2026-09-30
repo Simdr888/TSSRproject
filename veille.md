@@ -65,7 +65,7 @@ Petite liste de personnes que je suis :
   - [r/homelab](https://www.reddit.com/r/homelab/)
 
   Enfin une ressource très intéressante pour regarder des vidéos sur l'IT c'est **Youtube** : 
-  - [Underscore](https://www.youtube.com/@underscore_talk)
+  - [Underscore](https://www.youtube.com/@underscore)
   - [IT-Connect](https://www.youtube.com/@IT-Connect)
   - [Xavki](https://www.youtube.com/@xavki)
   - [Cocadmin](https://www.youtube.com/@Cocadmin)
