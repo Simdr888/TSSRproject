@@ -19,30 +19,30 @@ Il possède aussi une fonctionnalité intéréssante qui est celle de pouvoir av
 Voici comment j'ai choisi d'organiser ce Feedly : 
 
   Informatique Générale : Un dossier qui va contenir des sources qui parlent d'informatique au sens général : 
-   - ItConnect  
-   - le comptoir du Hardware.
-   - ZDNet France.
-   - L'informaticien
-   - Le Cachem
-   - Les Numériques
-   - Le monde Informatique
+   - [IT-Connect](https://www.it-connect.fr) 
+   - [le comptoir du Hardware](https://www.comptoir-hardware.com/)
+   - [ZDNet France](https://www.zdnet.fr/)
+   - [L'informaticien](https://www.linformaticien.com/)
+   - [Le Cachem](https://www.cachem.fr/)
+   - [Les Numériques](https://www.lesnumeriques.com/)
+   - [Le monde Informatique](https://www.lemondeinformatique.fr/)
  
   Sécurité : Ce dossier contient des sources d'avantage porté sur les failles de sécurité les vulnérabilité et la cybersécurité : 
    - [Cert-FR](https://www.cert.ssi.gouv.fr)
-   - Zataz
-   - UnderNews
-   - The Hacker News
-   - BleepingComputer
-   - Anssi
+   - [Zataz](https://www.zataz.com/)
+   - [UnderNews](https://www.undernews.fr/)
+   - [The Hacker News](https://thehackernews.com/)
+   - [BleepingComputer](https://www.bleepingcomputer.com/)
+   - [Anssi](https://www.ssi.gouv.fr/)
 
 
   Linux : Ce dossier parle de linux au sens générale et centralise des sources comme : 
-   -Glpi Project 
-   - Planet Debian French.
-   - Phoronix
-   - Toolinux
-   - Linuxfr.org
-   - DistroWatch Weekly
+   - [Glpi Project](https://glpi-project.org/fr/) 
+   - [Planet Debian French](https://planet.debian.org/fr/)
+   - [Phoronix](https://www.phoronix.com/)
+   - [Toolinux](https://www.toolinux.com/)
+   - [Linuxfr.org](https://linuxfr.org/)
+   - [DistroWatch Weekly](https://distrowatch.com/)
 
 
 ## Autre manière de réaliser ma veille 
@@ -67,7 +67,7 @@ Petite liste de personnes que je suis :
 
   Enfin une ressource très intéressante pour regarder des vidéos sur l'IT c'est **Youtube** : 
   - Underscore 
-  - [IT-Connect](https://www.it-connect.fr)
+  - [IT-Connect](https://www.youtube.com/@IT-Connect)
   - Xavki
   - Cocadmin
 
