@@ -1,4 +1,4 @@
-# La Veille IT pour les autres mais surtout pour moi
+# La Veille IT 
 
 
 ## Qu'est ce que la veille informatique? 
