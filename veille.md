@@ -21,28 +21,28 @@ Voici comment j'ai choisi d'organiser ce Feedly :
   Informatique Générale : Un dossier qui va contenir des sources qui parlent d'informatique au sens général : 
    - ItConnect  
    - le comptoir du Hardware.
-   -ZDNet France.
-   -L'informaticien
-   -Le Cachem
-   -Les Numériques
-   -Le monde Informatique
+   - ZDNet France.
+   - L'informaticien
+   - Le Cachem
+   - Les Numériques
+   - Le monde Informatique
 
   Sécurité : Ce dossier contient des sources d'avantage porté sur les failles de sécurité les vulnérabilité et la cybersécurité : 
    - Cert.fr
-   -Zataz
-   -UnderNews
-   -The Hacker News
-   -BleepingComputer
-   -Anssi
+   - Zataz
+   - UnderNews
+   - The Hacker News
+   - BleepingComputer
+   - Anssi
 
 
   Linux : Ce dossier parle de linux au sens générale et centralise des sources comme : 
    -Glpi Project 
    - Planet Debian French.
-   -Phoronix
-   -Toolinux
-   -Linuxfr.org
-   -DistroWatch Weekly
+   - Phoronix
+   - Toolinux
+   - Linuxfr.org
+   - DistroWatch Weekly
 
 
 ## Autre manière de réaliser ma veille 
