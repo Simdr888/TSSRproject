@@ -47,7 +47,7 @@ Voici comment j'ai choisi d'organiser ce Feedly :
 
 ## Autre manière de réaliser ma veille 
 
-La première chose que j'utilise et que j'utilisais c'est linkedin en suivant les bonnes personnes j'obtiens des informations sur les sujets qui m'intéresse. 
+La première chose que j'utilise et que j'utilisais c'est **Linkedin** en suivant les bonnes personnes j'obtiens des informations sur les sujets qui m'intéresse. 
 
 Petite liste de personnes que je suis : 
  - Florian Burnel (ITConnect) 
@@ -56,7 +56,7 @@ Petite liste de personnes que je suis :
  - Clusif
  - Mickael Barroux
 
- Une seconde ressources que j'utilise pour la veille est Reddit. Je suis plusieurs blogs : 
+ Une seconde ressources que j'utilise pour la veille est **Reddit**. Je suis plusieurs blogs : 
 
   - r/france_tech
   - r/cybersécurité
@@ -64,4 +64,10 @@ Petite liste de personnes que je suis :
   - r/netsec
   - r/linuxadmin
   - r/homelab
+
+  Enfin une ressource très intéressante pour regarder des vidéos sur l'IT c'est **Youtube** : 
+  -Underscore 
+  - It connect 
+  -Xavki
+  -Cocadmin
 
