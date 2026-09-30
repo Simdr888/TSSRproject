@@ -54,6 +54,7 @@ Petite liste de personnes que je suis :
  - Stéphane Robert 
  - ANSSI
  - Clusif
+ - Mickael Barroux
 
  Une seconde ressources que j'utilise pour la veille est Reddit. Je suis plusieurs blogs : 
 
