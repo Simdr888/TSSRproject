@@ -26,9 +26,9 @@ Voici comment j'ai choisi d'organiser ce Feedly :
    - Le Cachem
    - Les Numériques
    - Le monde Informatique
-
+ 
   Sécurité : Ce dossier contient des sources d'avantage porté sur les failles de sécurité les vulnérabilité et la cybersécurité : 
-   - Cert.fr
+   - [Cert-FR](https://www.cert.ssi.gouv.fr)
    - Zataz
    - UnderNews
    - The Hacker News
@@ -67,7 +67,7 @@ Petite liste de personnes que je suis :
 
   Enfin une ressource très intéressante pour regarder des vidéos sur l'IT c'est **Youtube** : 
   - Underscore 
-  - It connect 
+  - [IT-Connect](https://www.it-connect.fr)
   - Xavki
   - Cocadmin
 
