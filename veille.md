@@ -40,7 +40,6 @@ Voici comment j'ai choisi d'organiser ce Feedly :
    - [Glpi Project](https://glpi-project.org/fr/) 
    - [Planet Debian French](https://planet.debian.org/fr/)
    - [Phoronix](https://www.phoronix.com/)
-   - [Toolinux](https://www.toolinux.com/)
    - [Linuxfr.org](https://linuxfr.org/)
    - [DistroWatch Weekly](https://distrowatch.com/)
 
