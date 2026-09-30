@@ -66,8 +66,8 @@ Petite liste de personnes que je suis :
   - r/homelab
 
   Enfin une ressource très intéressante pour regarder des vidéos sur l'IT c'est **Youtube** : 
-  -Underscore 
+  - Underscore 
   - It connect 
-  -Xavki
-  -Cocadmin
+  - Xavki
+  - Cocadmin
 
