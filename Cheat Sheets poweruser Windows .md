@@ -76,7 +76,7 @@
 
 ##  3. Commandes Exécuter (`Win + R`)
 
-### 🔹 1. Panneau de Configuration (`.cpl`)
+###  1. Panneau de Configuration (`.cpl`)
 - `ncpa.cpl` : Connexions réseau (cartes Wi-Fi, Ethernet, adresses IP).
 - `firewall.cpl` : Pare-feu Windows classique.
 - `appwiz.cpl` : Ajouter / Supprimer des programmes (Désinstallation).
@@ -85,7 +85,7 @@
 - `sysdm.cpl` : Propriétés système, nom de l'ordinateur, variables d'environnement.
 - `main.cpl` : Paramètres et propriétés de la souris.
 
-### 🔹 2. Consoles de Gestion Microsoft (`.msc`)
+###  2. Consoles de Gestion Microsoft (`.msc`)
 - `gpedit.msc` : Éditeur de stratégie de groupe locale (GPO local).
 - `devmgmt.msc` : Gestionnaire de périphériques et pilotes matériels.
 - `diskmgmt.msc` : Gestion des disques, partitions et volumes.
@@ -95,7 +95,7 @@
 - `compmgmt.msc` : Console de gestion globale de l'ordinateur.
 - `wf.msc` : Pare-feu Windows avec fonctions avancées de sécurité.
 
-### 🔹 3. Utilitaires Système & Autres
+###  3. Utilitaires Système & Autres
 - `control` : Panneau de configuration classique.
 - `regedit` : Éditeur du Registre Windows.
 - `mstsc` : Client de connexion bureau à distance (RDP).
