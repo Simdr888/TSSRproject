@@ -120,7 +120,7 @@
 - **`netstat -ano`** : Affiche toutes les connexions réseau actives et les ports d'écoute, ainsi que le PID (ID du processus) associé pour identifier quel programme utilise quel port.
 - **`arp -a`** : Affiche la table ARP locale (correspondance entre les adresses IP et les adresses MAC des machines sur le même réseau local).
 
-### 👥 4.2 Gestion des Utilisateurs & Système (Windows / PowerShell)
+###  4.2 Gestion des Utilisateurs & Système (Windows / PowerShell)
 - **`Get-LocalUser`** : Liste l'ensemble des comptes utilisateurs locaux sur la machine.
 - **`Get-NetAdapter`** : Affiche l'état, la vitesse et les détails des cartes réseau (Ethernet, Wi-Fi).
 - **`Get-Service`** / **`Restart-Service`** : Permet de lister ou de redémarrer un service Windows directement en PowerShell.
@@ -128,7 +128,7 @@
 - **`sfc /scannow`** : Analyse l'intégrité de tous les fichiers système protégés et répare les fichiers corrompus.
 - **`dism /online /cleanup-image /restorehealth`** : Répare l'image du système d'exploitation Windows via Windows Update ou une source externe.
 
-### 🐧 4.3 Commandes de Base Linux (Essentielles pour TSSR / WSL)
+###  4.3 Commandes de Base Linux (Essentielles pour TSSR / WSL)
 - **`ip a`** ou **`ifconfig`** : Affiche les interfaces réseau et les adresses IP sous Linux.
 - **`systemctl status <service>`** : Vérifie l'état d'un service (démon) sous Linux (ex: `systemctl restart ssh`).
 - **`df -h`** : Affiche l'espace disque disponible et utilisé sur les différentes partitions (au format lisible).
@@ -136,7 +136,7 @@
 - **`top`** ou **`htop`** : Gestionnaire de tâches en temps réel pour surveiller l'utilisation du processeur et de la mémoire par les processus.
 - **`tail -f /var/log/...`** : Permet de suivre en direct les fichiers de journaux (logs) système ou applicatifs.
 
-### 📦 4.4 Gestionnaire de Paquets `winget` (Déploiement logiciel)
+###  4.4 Gestionnaire de Paquets `winget` (Déploiement logiciel)
 - **`winget search <nom>`** : Rechercher un logiciel dans le dépôt officiel.
 - **`winget install <nom>`** : Installer un programme silencieusement et directement en ligne de commande.
 - **`winget upgrade --all`** : Mettre à jour l'ensemble des applications installées sur le poste.
