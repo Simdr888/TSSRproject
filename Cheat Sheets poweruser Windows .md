@@ -109,16 +109,37 @@
 
 ---
 
-##  4. CLI : Shell Windows, PowerShell & Winget
+##  4. CLI : Shell Windows, PowerShell & Linux pour TSSR
 
-### Commandes PowerShell Utiles
-- `Get-LocalUser` : Liste l'ensemble des comptes utilisateurs locaux sur la machine.
-- `Get-NetAdapter` : Affiche l'état et les détails des cartes réseau (Ethernet, Wi-Fi).
+###  4.1 Réseau & Diagnostic (Indispensables TSSR)
+- **`ipconfig /all`** : Affiche la configuration IP complète de toutes les cartes réseau (adresses IPv4/IPv6, masques, passerelle, serveurs DNS, adresse MAC).
+- **`ipconfig /flushdns`** : Vide le cache DNS local (très utile en cas de problème de résolution de nom ou de site inaccessible).
+- **`ping <IP ou nom>`** : Teste la connectivité réseau et la latence avec une machine distante via le protocole ICMP.
+- **`tracert <IP ou nom>`** : Trace le chemin (les routeurs/sauts) pris par les paquets réseau pour atteindre une destination.
+- **`nslookup <domaine>`** : Interroge un serveur DNS pour résoudre un nom de domaine en adresse IP (et inversement).
+- **`netstat -ano`** : Affiche toutes les connexions réseau actives et les ports d'écoute, ainsi que le PID (ID du processus) associé pour identifier quel programme utilise quel port.
+- **`arp -a`** : Affiche la table ARP locale (correspondance entre les adresses IP et les adresses MAC des machines sur le même réseau local).
 
-### Gestionnaire de Paquets `winget`
-- `winget search <nom>` : Rechercher un logiciel dans le dépôt officiel.
-- `winget install <nom>` : Installer un programme directement en ligne de commande.
-- `winget upgrade --all` : Mettre à jour l'ensemble des applications installées sur le PC.
+### 👥 4.2 Gestion des Utilisateurs & Système (Windows / PowerShell)
+- **`Get-LocalUser`** : Liste l'ensemble des comptes utilisateurs locaux sur la machine.
+- **`Get-NetAdapter`** : Affiche l'état, la vitesse et les détails des cartes réseau (Ethernet, Wi-Fi).
+- **`Get-Service`** / **`Restart-Service`** : Permet de lister ou de redémarrer un service Windows directement en PowerShell.
+- **`Get-Process`** / **`Stop-Process`** : Permet de lister les processus en cours ou d'en stopper un de force via son nom ou son PID.
+- **`sfc /scannow`** : Analyse l'intégrité de tous les fichiers système protégés et répare les fichiers corrompus.
+- **`dism /online /cleanup-image /restorehealth`** : Répare l'image du système d'exploitation Windows via Windows Update ou une source externe.
+
+### 🐧 4.3 Commandes de Base Linux (Essentielles pour TSSR / WSL)
+- **`ip a`** ou **`ifconfig`** : Affiche les interfaces réseau et les adresses IP sous Linux.
+- **`systemctl status <service>`** : Vérifie l'état d'un service (démon) sous Linux (ex: `systemctl restart ssh`).
+- **`df -h`** : Affiche l'espace disque disponible et utilisé sur les différentes partitions (au format lisible).
+- **`free -h`** : Affiche l'utilisation de la mémoire RAM et du swap.
+- **`top`** ou **`htop`** : Gestionnaire de tâches en temps réel pour surveiller l'utilisation du processeur et de la mémoire par les processus.
+- **`tail -f /var/log/...`** : Permet de suivre en direct les fichiers de journaux (logs) système ou applicatifs.
+
+### 📦 4.4 Gestionnaire de Paquets `winget` (Déploiement logiciel)
+- **`winget search <nom>`** : Rechercher un logiciel dans le dépôt officiel.
+- **`winget install <nom>`** : Installer un programme silencieusement et directement en ligne de commande.
+- **`winget upgrade --all`** : Mettre à jour l'ensemble des applications installées sur le poste.
 
 ---
 
